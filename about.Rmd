@@ -8,4 +8,5 @@ output:
 
 # This page has information about me
 
-I study p8105.
+I teach p8105.
+
